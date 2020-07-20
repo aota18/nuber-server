@@ -1,0 +1,9 @@
+{
+  "name": "nuber-server",
+  "version": "1.0.0",
+  "description": "Uber Clone Application with Nodejs and GraphQL",
+  "main": "index.js",
+  "repository": "https://github.com/aota18/nuber-server.git",
+  "author": "Daniel Sangwon Seo",
+  "license": "AOTA18"
+}
