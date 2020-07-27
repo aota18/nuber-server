@@ -15,6 +15,10 @@ Uber clone application server with NodeJS, GraphQL and Typescript.
 
 --- 
 
+### Authentication:
+
+- [x] Generate JWT
+- [x] Verify JWT
 
 ### Private Resolvers:
 - [ ] Verify Email
