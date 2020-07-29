@@ -11,7 +11,7 @@ Uber clone application server with NodeJS, GraphQL and Typescript.
 - [x] Sign In with Email
 - [x] Start Phone Number Verification
 - [x] Complete Phone Number Verification
-- [ ] Sign Up with Email
+- [x] Sign Up with Email
 
 --- 
 
@@ -21,7 +21,7 @@ Uber clone application server with NodeJS, GraphQL and Typescript.
 - [x] Verify JWT
 
 ### Private Resolvers:
-- [ ] Verify Email
+- [x] Verify Email
 - [ ] Get My Profile
 - [ ] Update My Profile
 - [ ] Toggle Driving Mode
